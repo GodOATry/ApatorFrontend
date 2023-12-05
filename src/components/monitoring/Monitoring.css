@@ -1,0 +1,48 @@
+.MonitoringContainer {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .MonitoringContainer h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .MonitoringContainer label {
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+  .MonitoringContainer input {
+    padding: 8px;
+    margin-left: 5px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .MonitoringContainer button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+    transition: background-color 0.3s ease;
+  }
+  
+  .MonitoringContainer button:hover {
+    background-color: #45a049;
+  }
+  
+  .MonitoringContainer .ApiResponse {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  

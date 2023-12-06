@@ -38,7 +38,7 @@ function App() {
             Apator Test
           </Typography>
           <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-            <Link href="/" color="inherit" style={{ margin: '0 30px' }}>
+            <Link href="/" color="inherit" >
               Clients List
             </Link>
             <Link href="/add" style={{ margin: '0 30px' }} color="inherit">
